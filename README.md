@@ -8,4 +8,4 @@ To bring back the Classic trex Runner Game with Camera movement.
 - Code.org GameLab
 
 ## Project: 
-Link to the Project: 
+Link to the Project: https://shehraan2008.github.io/Infinite-Runner-Game-Redux/
