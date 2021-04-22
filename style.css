@@ -1,0 +1,30 @@
+html,
+body {
+  font-family: "VT323";
+  /* background-image: linear-gradient(#40236d, #9a4ced, #e74479, #e6923e); */
+}
+
+h1 {
+  color: yellow;
+  text-shadow: 5px 3px salmon;
+  font-size: 500%;
+  text-align: center;
+  letter-spacing: 10px;
+}
+
+canvas {
+  display: grid;
+  place-items: center;
+  margin: auto;
+}
+
+.gradient-text {
+  background-color: red;
+  background-image: linear-gradient(180deg, #fbf161, #ea4b37);
+  background-size: 100%;
+  background-repeat: repeat;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
